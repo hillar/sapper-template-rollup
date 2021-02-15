@@ -1,0 +1,27 @@
+<script>
+
+</script>
+
+<style>
+
+</style>
+
+<svelte:head>
+	<title>Sapper project template</title>
+</svelte:head>
+
+<h1>Great success!</h1>
+
+<button class="button-xsmall pure-button">Extra Small Button</button>
+<button class="button-small pure-button">Small Button</button>
+<button class="pure-button">Regular Button</button>
+<button class="button-large pure-button">Large Button</button>
+<button class="button-xlarge pure-button">Extra Large Button</button>
+
+
+<button class="button-success pure-button">Success Button</button>
+<button class="button-error pure-button">Error Button</button>
+<button class="button-warning pure-button">Warning Button</button>
+<button class="button-secondary pure-button">Secondary Button</button>
+
+<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
