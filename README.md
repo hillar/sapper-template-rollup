@@ -9,5 +9,5 @@ Default  + PureCSS
 To create a new Sapper project locally, run
 
 ```bash
-npx degit "hillar/sapper-template" my-app
+npx degit "hillar/sapper-template-rollup-purecss" my-app
 ```
